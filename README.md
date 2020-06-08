@@ -1,5 +1,3 @@
-# My Study List
-
 ## Data Structure in C
 C로 자료구조를 구현.
 
