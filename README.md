@@ -11,7 +11,7 @@ ML의 기본적인 이론과 다양한 분야를 접해보기.
   * Pytorch로 Spam `SMS Classification` Model 구현.(Logistic, CNN, LSTM)
   * Tensorflow를 활용한 `object detection` 튜토리얼.
   ### Reinforce Learning
-  RL의 이론과 실습해보기. [모두를 위한 RL강좌](https://www.youtube.com/playlist?list=PLlMkM4tgfjnKsCWav-Z2F-MMFRx-2gMGG)
+  * RL의 이론과 실습해보기. [모두를 위한 RL강좌](https://www.youtube.com/playlist?list=PLlMkM4tgfjnKsCWav-Z2F-MMFRx-2gMGG)
   
 ## Login System
 * `Flask`를 이용한 로그인 환경 구현.
