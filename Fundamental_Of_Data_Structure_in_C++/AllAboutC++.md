@@ -195,6 +195,7 @@ auto cout_function(int x){
   copy(r.begin(),r.end(),back_inserter(vec));
   ```
   굳이 for loop를 사용하지 않아도 이런식으로 iterator를 활용하면 간편하게 구현 가능
+  
 * 선형 범위 함수
   ```cpp
   auto r = LinearRange<double>{0,1,4} // 0.0 0.33 0.66 1.0

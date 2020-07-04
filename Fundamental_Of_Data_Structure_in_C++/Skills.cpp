@@ -43,6 +43,5 @@ int main()
     int x = 10;
     string y = "Hello";
 
-
     return 0;
 }
