@@ -18,7 +18,7 @@ I am a student at Ajou University who is interested in **Artificial Intelligence
 |        🎡 Project         | 2020.09 ~ 2020.01 | 고등학생 전용 어플리케이션 "도담도담" 서비스  |      DumDum(Ajou Univ)      | [dodam_android](https://github.com/Algostu/dodam-android)    |
 |       🏢 Internship       | 2020.07 ~ 2020.08 | R&D (Object Detection, OCR, InsightFace)      |          AHAM Corp          | :lock: private                                               |
 |       🏫 Education        | 2020.01 ~ 2020.08 | Algorithm Study                               |          Boradori           | [boradori](https://github.com/Algostu/boradori)              |
-| :trophy: ​Contest Exhibit | 2019.11 ~ 2020.01 | 금융 문자 분석 경진 대회                      |         KB 금융그룹         | [NLP/pytorch-models](https://github.com/Rhcsky/Rhcsky/tree/master/ML/Deep_Learning/NLP/pytorch-models) |
+| :trophy: ​Contest Exhibit | 2019.11 ~ 2020.01 | 금융 문자 분석 경진 대회                      |         KB 금융그룹         | [NLP/pytorch-models](https://github.com/Rhcsky/Rhcsky/tree/master/AI/Deep_Learning/NLP/pytorch-models) |
 | :trophy: Contest Exhibit | 2019.08 ~ 2019.12 | 2019 공개SW 개발자 대회                       | 과학기술정보통신부,<br>nipa | [chungyo](https://github.com/hankyul2/chungyo)               |
 |       🏫 Education        | 2016.03 ~ 2022.02 | Department of software                        |       Ajou University       | -                                                            |
 
