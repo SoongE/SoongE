@@ -9,3 +9,9 @@ AI의 기본적인 이론과 다양한 분야를 접해서 코드로 표현해�
   ### Reinforce Learning
   * RL의 이론과 실습해보기. [모두를 위한 RL강좌](https://www.youtube.com/playlist?list=PLlMkM4tgfjnKsCWav-Z2F-MMFRx-2gMGG)
 
+### Meta Learning
+
+[메타러닝 개념](docs/MetaLearningBasic)
+
+[Siamese network for one shot learning with omniglot dataset using pytorch](https://github.com/Rhcsky/Meta-learning-with-omniglot-dataset-using-pytorch/tree/main/siamese_network)
+
