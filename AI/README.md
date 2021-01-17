@@ -11,7 +11,7 @@ AI의 기본적인 이론과 다양한 분야를 접해서 코드로 표현해�
 
 ### Meta Learning
 
-[메타러닝 개념](docs/MetaLearningBasic)
+[메타러닝 개념](docs/MetaLearningBasic.pdf)
 
 [Siamese network for one shot learning with omniglot dataset using pytorch](https://github.com/Rhcsky/Meta-learning-with-omniglot-dataset-using-pytorch/tree/main/siamese_network)
 
