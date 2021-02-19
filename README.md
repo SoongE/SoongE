@@ -14,7 +14,7 @@ I am a student at Ajou University who is interested in **Artificial Intelligence
 | :----------------------: | :---------------: | --------------------------------------------- | :-------------------------: | ------------------------------------------------------------ |
 |       🏢 Internship       |   2021.01 ~ Now   | Laboratory under Prof.Jongbin Ryu             |       Ajou University       | -                                                            |
 |        🎡 Project         | 2020.11 ~ 2020.12 | 레시피 추천 어플리케이션 "Recipe Helper" 개발 |    TomTomVIP(Ajou Univ)     | [recipe_helper](https://github.com/it-intensive-programming2/HCI_project) |
-|        🎡 Project         | 2020.09 ~ 2020.10 | IsolaA를 이용한 "Autosar" toy project         | 귀여운 고슴도치(Ajou Univ)  | [toy_autosar](https://github.com/Rhcsky/Rhcsky/toy_project_autosar) |
+|        🎡 Project         | 2020.09 ~ 2020.10 | IsolaA를 이용한 "Autosar" toy project         | 귀여운 고슴도치(Ajou Univ)  | [toy_autosar](https://github.com/Rhcsky/Rhcsky/tree/master/toy_autosar) |
 |        🎡 Project         | 2020.09 ~ 2020.01 | 고등학생 전용 어플리케이션 "도담도담" 서비스  |      DumDum(Ajou Univ)      | [dodam_android](https://github.com/Algostu/dodam-android)    |
 |       🏢 Internship       | 2020.07 ~ 2020.08 | R&D (Object Detection, OCR, InsightFace)      |          AHAM Corp          | :lock: private                                               |
 |       🏫 Education        | 2020.01 ~ 2020.08 | Algorithm Study                               |          Boradori           | [boradori](https://github.com/Algostu/boradori)              |
