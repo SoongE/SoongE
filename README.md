@@ -30,3 +30,18 @@ I am a student at Ajou University who is interested in **Artificial Intelligence
     <img src="https://github-readme-stats.vercel.app/api?username=rhcsky&show_icons=true&theme=radical&bg_color=FFFFFF&text_color=000000&icon_color=C71585" height=160>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhcsky&layout=compact" height=160>
 </p>
+### 🛠 Tech Stack
+
+<p align="center">
+ <a><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
+ <a><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/></a>
+ <a><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c++&logoColor=white"/></a>
+</a>
+ </br>
+<a><img src="https://img.shields.io/badge/Pytorch-EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white"/>
+ <a><img src="https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=git&logoColor=white"/>
+ <a><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
+ <a><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/></a>
+      <a><img src="https://img.shields.io/badge/Github Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white"/></a>
+</p>
+
