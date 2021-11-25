@@ -27,8 +27,8 @@ I am a student at Ajou University who is interested in **Artificial Intelligence
 ### 🚀status
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rhcsky&show_icons=true&theme=radical&bg_color=FFFFFF&text_color=000000&icon_color=C71585" height=160>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhcsky&layout=compact" height=160>
+    <img src="https://github-readme-stats.vercel.app/api?username=soonge&show_icons=true&theme=radical&bg_color=FFFFFF&text_color=000000&icon_color=C71585" height=160>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soonge&layout=compact" height=160>
 </p>
 
 ### 🛠Tech Stack
