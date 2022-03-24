@@ -2,9 +2,9 @@
 
 I am a student at Ajou University who is interested in **Artificial Intelligence**. I love to create and challenge something new by communicating with people. Feel free to contact me if you want to challenge with me!
 
-* 🔥 Currently learning about algorithm, meta-learning and few-shot learning
-* 🌱 Currently learning the language about `Dart`
-* 🎯 Interested in `Go`, `Kotlin`, `Typescript`, `Scalar`
+* 🔥 Currently learning about `Computer Vision`, `Meta-learning`, `Few-shot learning`
+* 🌱 What I want to learn are `NLP`, `STT`, `Autonomous Driving`, `Cloud`, `Blockchain`
+* 🎯 Interested language are `Go`, `Typescript`, `Scalar`
 * ✨ Good at `C++`, `Python`
 * 💌 Ask me about anything! dev.rhcsky@gmail.com
 
