@@ -6,14 +6,15 @@ I am a student at Ajou University who is interested in **Artificial Intelligence
 * 🌱 What I want to learn are `NLP`, `STT`, `Autonomous Driving`, `Cloud`, `Blockchain`
 * 🎯 Interested language are `Go`, `Typescript`, `Scalar`
 * ✨ Good at `C++`, `Python`
-* 💌 Ask me about anything! dev.rhcsky@gmail.com
+* 💌 Ask me about anything! oh1.seungmin@gmail.com
 
 ### 📚 Experience
 
 |           Type           |       Date        | Contents                                                     |          Organization          | Repository                                                   |
 | :----------------------: | :---------------: | ------------------------------------------------------------ | :----------------------------: | ------------------------------------------------------------ |
-|       🏢 Internship       |   2021.01 ~ Now   | Laboratory under Prof.Jongbin Ryu                            |        Ajou University         | -                                                            |
-| :trophy: Contest Exhibit |   2021.03 ~ Now   | Recommender System 기반 검색&아카이브 서비스 "Findmap" 개발  | 한국정보산업연합회, <br>한이음 | [Findmap](https://github.com/SoongE/Findmap)                                               |
+|  🏢</br> Master Program   |   2022.03 ~ Now   | CILab under Prof.Jongbin Ryu                                 |        Ajou University         | -                                                            |
+|       🏢 Internship       | 2021.01 ~ 2022.02 | CILab under Prof.Jongbin Ryu                                 |        Ajou University         | -                                                            |
+| :trophy: Contest Exhibit |   2021.03 ~ Now   | Recommender System 기반 검색&아카이브 서비스 "Findmap" 개발  | 한국정보산업연합회, <br>한이음 | [Findmap](https://github.com/SoongE/Findmap)                 |
 |        🎡 Project         | 2021.03 ~ 2021.06 | NLP를 활용한 스크립트 기반 영상 검색 및 요약 서비스 "FindU" 개발 |     FindU(Ajou University)     | [FindU](https://github.com/SWCapstone2021/NLP)               |
 |        🎡 Project         | 2020.11 ~ 2020.12 | 레시피 추천 어플리케이션 "Recipe Helper" 개발                |      TomTomVIP(Ajou Univ)      | [recipe_helper](https://github.com/it-intensive-programming2/HCI_project) |
 |        🎡 Project         | 2020.09 ~ 2020.10 | IsolaA를 이용한 "Autosar" toy project                        |   귀여운 고슴도치(Ajou Univ)   | [toy_autosar](https://github.com/SoongE/SoongE/tree/master/toy_autosar) |
@@ -45,4 +46,3 @@ I am a student at Ajou University who is interested in **Artificial Intelligence
  <a><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/></a>
       <a><img src="https://img.shields.io/badge/Github Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white"/></a>
 </p>
-
