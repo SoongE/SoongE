@@ -2,9 +2,9 @@
 
 I am a student at Ajou University who is interested in **Artificial Intelligence**. I love to create and challenge something new by communicating with people. Feel free to contact me if you want to challenge with me!
 
-* 🔥 Currently learning about `Computer Vision`, `Meta-learning`, `Few-shot learning`
+* 🔥 Currently learning about `Computer Vision`, `Meta-learning`, `Vision Language Model`
 * 🌱 What I want to learn are `NLP`, `STT`, `Autonomous Driving`, `Cloud`, `Blockchain`
-* 🎯 Interested language are `Go`, `Typescript`, `Scalar`
+* 🎯 Interested language are `Go`, `Scalar`
 * ✨ Good at `C++`, `Python`
 * 💌 Ask me about anything! oh1.seungmin@gmail.com
 
@@ -13,13 +13,14 @@ I am a student at Ajou University who is interested in **Artificial Intelligence
 |           Type           |       Date        | Contents                                                     |          Organization          | Repository                                                   |
 | :----------------------: | :---------------: | ------------------------------------------------------------ | :----------------------------: | ------------------------------------------------------------ |
 |  🧑‍🎓</br> Master Program  |   2022.03 ~ Now   | CILab under Prof.Jongbin Ryu                                 |        Ajou University         | -                                                            |
-|     🥳<br />Community     |   2022.09 ~ Now   | GDSC Ajou 1st Core Member           | Google Developer Student Club | [GDSC Ajou](https://github.com/gdsc-ajou)                    |
+|     🥳<br />Community     |   2022.09 ~ Now   | GDSC Ajou 1st Core Member                                    | Google Developer Student Club  | [GDSC Ajou](https://github.com/gdsc-ajou)                    |
+| :trophy: Contest Exhibit |   2023.01 ~ Now   | Google Solution Challenge 2023<br />(Global Top 100)         |             Google             | [Vici-gsc](https://github.com/orgs/Vici-gsc/repositories)    |
 |       🏢 Internship       | 2021.01 ~ 2022.02 | CILab under Prof.Jongbin Ryu                                 |        Ajou University         | -                                                            |
-| :trophy: Contest Exhibit |   2021.03 ~ 2021.09   | Recommender System 기반 검색&아카이브 서비스 "Findmap" 개발  | 한국정보산업연합회, <br>한이음 | [Findmap](https://github.com/SoongE/Findmap)                 |
-|        🎡 Project         | 2021.03 ~ 2021.06 | NLP를 활용한 스크립트 기반 영상 검색 및 요약 서비스 "FindU" 개발 |     FindU(Ajou University)     | [FindU](https://github.com/SWCapstone2021/NLP)               |
+| :trophy: Contest Exhibit | 2021.03 ~ 2021.09 | Recommender System 기반 검색&아카이브 서비스 "Findmap" 개발<br />(ACK2021 우수상, 한이음2021 동상) | 한국정보산업연합회, <br>한이음 | [Findmap](https://github.com/SoongE/Findmap)                 |
+|        🎡 Project         | 2021.03 ~ 2021.06 | NLP를 활용한 스크립트 기반 영상 검색 및 요약 서비스 "FindU" 개발<br />(DCS2021 대학생 논문경진대회 금상) |     FindU(Ajou University)     | [FindU](https://github.com/SWCapstone2021/NLP)               |
 |        🎡 Project         | 2020.11 ~ 2020.12 | 레시피 추천 어플리케이션 "Recipe Helper" 개발                |      TomTomVIP(Ajou Univ)      | [recipe_helper](https://github.com/it-intensive-programming2/HCI_project) |
 |        🎡 Project         | 2020.09 ~ 2020.10 | IsolaA를 이용한 "Autosar" toy project                        |   귀여운 고슴도치(Ajou Univ)   | [toy_autosar](https://github.com/SoongE/SoongE/tree/master/toy_autosar) |
-|        🎡 Project         | 2020.09 ~ 2020.01 | 고등학생 전용 어플리케이션 "도담도담" 서비스                 |       DumDum(Ajou Univ)        | [dodam_android](https://github.com/Algostu/dodam-android)    |
+|        🎡 Project         | 2020.09 ~ 2020.01 | 고등학생 전용 어플리케이션 "도담도담" 서비스 출시            |       DumDum(Ajou Univ)        | [dodam_android](https://github.com/Algostu/dodam-android)    |
 |       🏢 Internship       | 2020.07 ~ 2020.08 | R&D (Object Detection, OCR, InsightFace)                     |           AHAM Corp            | :lock: private                                               |
 |       🏫 Education        | 2020.01 ~ 2020.08 | Algorithm Study                                              |            Boradori            | [boradori](https://github.com/Algostu/boradori)              |
 | :trophy: Contest Exhibit | 2019.11 ~ 2020.01 | 금융 문자 분석 경진 대회                                     |          KB 금융그룹           | [NLP/pytorch-models](https://github.com/SoongE/SoongE/tree/master/AI/Deep_Learning/NLP/pytorch-models) |
