@@ -27,13 +27,6 @@ I am a student at Ajou University who is interested in **Artificial Intelligence
 | :trophy: Contest Exhibit | 2019.08 ~ 2019.12 | 2019 공개SW 개발자 대회                                      |  과학기술정보통신부,<br>nipa   | [chungyo](https://github.com/hankyul2/chungyo)               |
 |       🏫 Education        | 2016.03 ~ 2022.02 | Department of software                                       |        Ajou University         | -                                                            |
 
-### 🚀status
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=soonge&show_icons=true&theme=radical&bg_color=FFFFFF&text_color=000000&icon_color=C71585" height=160>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soonge&layout=compact" height=160>
-</p>
-
 ### 🛠Tech Stack
 
 <p align="center">
