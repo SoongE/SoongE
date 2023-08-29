@@ -7,6 +7,7 @@ I am a student at Ajou University who is interested in **Artificial Intelligence
 * 🎯 Interested language are `Go`, `Scalar`
 * ✨ Good at `C++`, `Python`
 * 💌 Ask me about anything! oh1.seungmin@gmail.com
+* [Linkedin](https://www.linkedin.com/in/soonge/)
 
 ### 📚 Experience
 
