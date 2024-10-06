@@ -2,8 +2,8 @@
 
 I am a student at Ajou University who is interested in **Artificial Intelligence**. I love to create and challenge something new by communicating with people. Feel free to contact me if you want to challenge with me!
 
-* 🔥 Currently learning about `Computer Vision`, `Meta-learning`, `Vision Language Model`
-* 🌱 What I want to learn are `NLP`, `STT`, `Autonomous Driving`, `Cloud`, `Blockchain`
+* 🔥 Currently learning about `Computer Vision`, `Meta-learning`, `Vision Language Model`, `NLP`
+* 🌱 What I want to learn are `STT`, `Autonomous Driving`, `Cloud`, `Blockchain`
 * 🎯 Interested language are `Go`, `Scalar`
 * ✨ Good at `C++`, `Python`
 * 💌 Ask me about anything! oh1.seungmin@gmail.com
@@ -13,7 +13,8 @@ I am a student at Ajou University who is interested in **Artificial Intelligence
 
 |           Type           |       Date        | Contents                                                     |          Organization          | Repository                                                   |
 | :----------------------: | :---------------: | ------------------------------------------------------------ | :----------------------------: | ------------------------------------------------------------ |
-|  🧑‍🎓</br> Master Program  |   2022.03 ~ Now   | CILab under Prof.Jongbin Ryu                                 |        Ajou University         | -                                                            |
+|   🧑‍🎓</br> PhD Program    |   2024.03 ~ Now   | CILab under Prof.Jongbin Ryu                                 |        Ajou University         | -                                                            |
+| 🧑‍🎓</br> Master’s Program | 2022.03 ~ 2024.02 | CILab under Prof.Jongbin Ryu                                 |        Ajou University         | -                                                            |
 |     🥳<br />Community     |   2022.09 ~ Now   | GDSC Ajou 1st Core Member                                    | Google Developer Student Club  | [GDSC Ajou](https://github.com/gdsc-ajou)                    |
 | :trophy: Contest Exhibit |   2023.01 ~ Now   | Google Solution Challenge 2023<br />(Global Top 100)         |             Google             | [Vici-gsc](https://github.com/orgs/Vici-gsc/repositories)    |
 |       🏢 Internship       | 2021.01 ~ 2022.02 | CILab under Prof.Jongbin Ryu                                 |        Ajou University         | -                                                            |
