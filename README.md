@@ -1,13 +1,34 @@
-### Hi there, I'm seungmin! 👋[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frhcsky%2Fhit-counter&count_bg=%23DB5CE9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<h3 align="center">Seungmin Oh</h3>
+<p align="center">
+  Ph.D. Candidate in Artificial Intelligence · Ajou University<br>
+  Computational Intelligence Lab, advised by Prof. Jongbin Ryu
+</p>
 
-I am a student at Ajou University who is interested in **Artificial Intelligence**. I love to create and challenge something new by communicating with people. Feel free to contact me if you want to challenge with me!
+<p align="center">
+  <a href="mailto:oh1.seungmin@gmail.com"><img src="https://img.shields.io/badge/Email-oh1.seungmin%40gmail.com-informational?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/soonge/"><img src="https://img.shields.io/badge/LinkedIn-soonge-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://scholar.google.com/citations?user=dwOJaW8AAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white"></a>
+</p>
 
-* 🔥 Currently learning about `Computer Vision`, `Meta-learning`, `Vision Language Model`, `NLP`
-* 🌱 What I want to learn are `Autonomous Driving`, `Cloud`, `Blockchain`
-* 🎯 Interested language are `Go`, `Scalar`
-* ✨ Good at `C++`, `Python`
-* 💌 Ask me about anything! oh1.seungmin@gmail.com
-* [Linkedin](https://www.linkedin.com/in/soonge/)
+---
+
+I research **efficient AI** across vision, language, and vision–language–action (VLA) models, with a focus on
+deployment under tight compute budgets from edge devices to robot control loops.
+
+### Research Interests
+
+- **Vision–Language–Action models** — inference efficiency and amortization for robotic manipulation
+- **Efficient LLMs** — structured pruning and recovery, low-rank adapter aggregation under quantization
+- **Test-time adaptation** — training-free adaptation of vision–language models at deployment
+- **Efficient architectures** — re-parameterization, on-device and low-power computer vision
+
+### Selected Work
+
+| | |
+|---|---|
+| 🏆 | **1st place**, 2025 IEEE Low-Power Computer Vision Challenge, Track 1 (CVPR 2025 Workshop) — on-device image classification deployed on Snapdragon via Qualcomm AI Hub |
+| 📄 | Published in **BMVC**, **ACCV**, *Scientific Reports*, and *International Journal of Surgery* |
+| 🔬 | Ongoing: VLA, structured LLM pruning, test-time adaptation |
 
 ### 📚 Experience
 
@@ -33,13 +54,15 @@ I am a student at Ajou University who is interested in **Artificial Intelligence
 
 <p align="center">
  <a><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
- <a><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/></a>
  <a><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c++&logoColor=white"/></a>
+ <a><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/></a>
 </a>
  </br>
-<a><img src="https://img.shields.io/badge/Pytorch-EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white"/>
+ <a><img src="https://img.shields.io/badge/Pytorch-EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white"/>
+ <a><img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+ <a><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
  <a><img src="https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=git&logoColor=white"/>
  <a><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
  <a><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/></a>
-      <a><img src="https://img.shields.io/badge/Github Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white"/></a>
+ <a><img src="https://img.shields.io/badge/Github Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white"/></a>
 </p>
