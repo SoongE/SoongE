@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:oh1.seungmin@gmail.com"><img src="https://img.shields.io/badge/Email-oh1.seungmin%40gmail.com-informational?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="mailto:seungmin.oh16@gmail.com"><img src="https://img.shields.io/badge/Email-oh1.seungmin%40gmail.com-informational?style=flat-square&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/soonge/"><img src="https://img.shields.io/badge/LinkedIn-soonge-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="https://scholar.google.com/citations?user=dwOJaW8AAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white"></a>
 </p>
