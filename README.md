@@ -27,15 +27,15 @@ deployment under tight compute budgets from edge devices to robot control loops.
 | | |
 |---|---|
 | 🏆 | **1st place**, 2025 IEEE Low-Power Computer Vision Challenge, Track 1 (CVPR 2025 Workshop) — on-device image classification deployed on Snapdragon via Qualcomm AI Hub |
-| 📄 | Published in **BMVC**, **ACCV**, *Scientific Reports*, and *International Journal of Surgery* |
+| 📄 | Published in **EMNLP**, **BMVC**, **ACCV**, *Scientific Reports*, and *International Journal of Surgery* |
 | 🔬 | Ongoing: VLA, structured LLM pruning, test-time adaptation |
 
 ### 📚 Experience
 
 |           Type           |       Date        | Contents                                                     |          Organization          | Repository                                                   |
 | :----------------------: | :---------------: | ------------------------------------------------------------ | :----------------------------: | ------------------------------------------------------------ |
-|   🧑‍🎓</br> PhD Program    |   2024.03 ~ Now   | CILab under Prof.Jongbin Ryu                                 |        Ajou University         | -                                                            |
-| 🧑‍🎓</br> Master’s Program | 2022.03 ~ 2024.02 | CILab under Prof.Jongbin Ryu                                 |        Ajou University         | -                                                            |
+|   🧑‍🎓</br> Ph.D. Program    |   2024.03 ~ Now   | CILab under Prof.Jongbin Ryu                                 |        Ajou University         | -                                                            |
+| 🧑‍🎓</br> M.S. Program | 2022.03 ~ 2024.02 | CILab under Prof.Jongbin Ryu                                 |        Ajou University         | -                                                            |
 |     🥳<br />Community     |   2022.09 ~ 2023.12   | GDSC Ajou 1st Core Member                                    | Google Developer Student Club  | [GDSC Ajou](https://github.com/gdsc-ajou)                    |
 | :trophy: Contest Exhibit |   2023.01 ~ Now   | Google Solution Challenge 2023<br />(Global Top 100)         |             Google             | [Vici-gsc](https://github.com/orgs/Vici-gsc/repositories)    |
 |       🏢 Internship       | 2021.01 ~ 2022.02 | CILab under Prof.Jongbin Ryu                                 |        Ajou University         | -                                                            |
