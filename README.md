@@ -27,7 +27,7 @@ deployment under tight compute budgets from edge devices to robot control loops.
 | | |
 |---|---|
 | 🏆 | **1st place**, 2025 IEEE Low-Power Computer Vision Challenge, Track 1 (CVPR 2025 Workshop) — on-device image classification deployed on Snapdragon via Qualcomm AI Hub |
-| 📄 | Published in **EMNLP**, **BMVC**, **ACCV**, *Scientific Reports*, and *International Journal of Surgery* |
+| 📄 | Published in **NeurIPS**, **EMNLP**, **BMVC**, **ACCV**, *Scientific Reports*, and *International Journal of Surgery* |
 | 🔬 | Ongoing: VLA, structured LLM pruning, test-time adaptation |
 
 ### 📚 Experience
