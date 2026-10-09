@@ -1,0 +1,50 @@
+# Badge definitions. Add an entry, run `python badges/build.py`, commit and push.
+# It renders
+#   <name>.svg and <name>-dark.svg at the branch root, served from
+#   https://raw.githubusercontent.com/SoongE/SoongE/badge/<name>.svg
+#
+#   <name>: { label: "Text", icon: <file in _src/icons, or none>, tone: <tone below> }
+#
+# A tone is either [light ink, light bg, dark ink, dark bg],
+# or one brand hex ("#ed1c24") from which build.py derives all four.
+
+tones:
+  # venues (brand colour taken from each official logo / site)
+  cvpr:    "#0070b8"   # CVPR logo blue
+  iccv:    "#0f7c8a"   # no fixed brand colour (yearly skyline logo); teal to sit beside CVPR
+  eccv:    "#3d4b66"   # logo is monochrome; slate
+  icml:    "#284098"   # ICML logo blue square
+  iclr:    "#4caf28"   # ICLR logo green
+  neurips: "#68448b"   # NeurIPS logo purple
+  acl:     "#ed1c24"   # ACL logo red (EMNLP, NAACL, ...)
+  aaai:    "#003973"   # AAAI site navy
+  bmvc:    "#400098"   # BMVC logo purple
+  accv:    "#b7791f"   # no fixed brand colour (yearly logo); amber
+
+  # general
+  indigo: ["#4a55c9", "#eceefd", "#a9b1ff", "#1d2140"]
+  violet: ["#6b3fc4", "#f1ebfd", "#c4adff", "#251d3a"]
+  orange: ["#c24a00", "#fdeee3", "#ffb37f", "#33221a"]
+  gray:   ["#24262d", "#e9eaee", "#d6d9e0", "#24262d"]
+  green:  ["#1f7a3d", "#e4f5ea", "#8fdca8", "#17291e"]
+  red:    ["#b42318", "#fdecea", "#ff9c92", "#351a19"]
+  teal:   ["#0f6e78", "#e1f4f5", "#86d8de", "#142b2e"]
+  blue:   ["#1d63c9", "#e6f0fd", "#9cc3ff", "#172338"]
+
+badges:
+  # venues
+  neurips-2026: { label: "NeurIPS 2026", icon: award, tone: neurips }
+  emnlp-2026:   { label: "EMNLP 2026",   icon: award, tone: acl }
+  bmvc-2026:    { label: "BMVC 2026",    icon: award, tone: bmvc }
+
+  # links
+  paper:        { label: "Paper",        icon: paper,       tone: indigo }
+  arxiv:        { label: "arXiv",        icon: arxiv,       tone: red }
+  code:         { label: "Code",         icon: github,      tone: gray }
+  dataset:      { label: "Dataset",      icon: huggingface, tone: orange }
+  model:        { label: "Model",        icon: huggingface, tone: orange }
+  checkpoints:  { label: "Checkpoints",    icon: huggingface, tone: orange }
+
+  # licenses
+  license-apache-2.0: { label: "Apache 2.0", icon: apache, tone: gray }
+  license-mit:        { label: "MIT",        icon: none,   tone: gray }
