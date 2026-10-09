@@ -15,7 +15,6 @@ tones:
   eccv:    "#3d4b66"   # logo is monochrome; slate
   icml:    "#284098"   # ICML logo blue square
   iclr:    "#4caf28"   # ICLR logo green
-  neurips: "#68448b"   # NeurIPS logo purple
   acl:     "#ed1c24"   # ACL logo red (EMNLP, NAACL, ...)
   aaai:    "#003973"   # AAAI site navy
   bmvc:    "#400098"   # BMVC logo purple
@@ -30,12 +29,13 @@ tones:
   red:    ["#b42318", "#fdecea", "#ff9c92", "#351a19"]
   teal:   ["#0f6e78", "#e1f4f5", "#86d8de", "#142b2e"]
   blue:   ["#1d63c9", "#e6f0fd", "#9cc3ff", "#172338"]
+  neurips: ["#581e84", "#f4ecfe", "#dfc3fe", "#281e32"]
 
 badges:
   # venues
-  neurips-2026: { label: "NeurIPS 2026", icon: award, tone: neurips }
-  emnlp-2026:   { label: "EMNLP 2026",   icon: award, tone: acl }
-  bmvc-2026:    { label: "BMVC 2026",    icon: award, tone: bmvc }
+  neurips-2026: { label: "NeurIPS 2026", icon: none, tone: neurips }
+  emnlp-2026:   { label: "EMNLP 2026",   icon: none, tone: acl }
+  bmvc-2026:    { label: "BMVC 2026",    icon: none, tone: bmvc }
 
   # links
   paper:        { label: "Paper",        icon: paper,       tone: indigo }
@@ -48,3 +48,8 @@ badges:
   # licenses
   license-apache-2.0: { label: "Apache 2.0", icon: apache, tone: gray }
   license-mit:        { label: "MIT",        icon: none,   tone: gray }
+
+  # arxiv
+  arxiv-2610.06147: { label: "2610.06147", icon: arxiv, tone: red, icon_color: ["#b31b1b", "#ff7b72"] }   # TTC
+  arxiv-2609.06974: { label: "2609.06974", icon: arxiv, tone: red, icon_color: ["#b31b1b", "#ff7b72"] }   # OverRep
+  arxiv-2609.06967: { label: "2609.06967", icon: arxiv, tone: red, icon_color: ["#b31b1b", "#ff7b72"] }   # ReCalCon
